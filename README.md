@@ -19,7 +19,7 @@ Password – TestPassword1
 
 To use the Home Appliance Rental System, follow these steps:
 
-Go to this link [https://www.microsoft.com/en-us/download/details.aspx?id=13255] and install the Microsoft Access database on your local machine.
+Go to this link [https://www.microsoft.com/en-us/download/details.aspx?id=13255] and install the Microsoft Access database engine on your local machine.
 
 Log in to the application using your username and password on the login form. If you are a new user, press the “Register” button to register a new account.
 
